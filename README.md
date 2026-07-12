@@ -14,3 +14,7 @@ TO_EMAIL=destination@example.com
 ```
 
 For Gmail, use a Google app password for `EMAIL_PASSWORD`. Your normal Google account password will usually not work.
+
+## Schedule
+
+GitHub Actions starts the monitor every 5 minutes. The Python script only checks inventory between 7:00 PM and 7:00 AM America/Denver time.

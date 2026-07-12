@@ -1,7 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
-from config import COLLECTIONS
+from config import (
+    ACTIVE_END_HOUR,
+    ACTIVE_START_HOUR,
+    COLLECTIONS,
+    TIMEZONE
+)
 from state import load_state, save_state
 from notifier import send_email
 from shopify import get_shopify_products
@@ -10,6 +17,21 @@ from shopify import get_shopify_products
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
+
+
+def is_active_window(now=None):
+    if now is None:
+        now = datetime.now(ZoneInfo(TIMEZONE))
+
+    current_hour = now.hour
+
+    if ACTIVE_START_HOUR < ACTIVE_END_HOUR:
+        return ACTIVE_START_HOUR <= current_hour < ACTIVE_END_HOUR
+
+    return (
+        current_hour >= ACTIVE_START_HOUR
+        or current_hour < ACTIVE_END_HOUR
+    )
 
 
 def parse_shopify_products(products, collection):
@@ -276,6 +298,13 @@ def main():
     print(
         "Starting Firefly monitor..."
     )
+
+    if not is_active_window():
+        print(
+            "Outside active window. Skipping inventory check."
+        )
+
+        return
 
 
     old_products = load_state()
