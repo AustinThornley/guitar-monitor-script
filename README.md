@@ -1,5 +1,5 @@
-# firefly-guitar-monitor
-Send an email alert when new solid body Firefly guitars are available on guitarsgarden.com.
+# guitar-monitor-script
+Send an email alert when new configured guitars are available on guitarsgarden.com.
 
 ## Email setup
 
