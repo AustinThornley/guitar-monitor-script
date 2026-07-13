@@ -17,4 +17,4 @@ For Gmail, use a Google app password for `EMAIL_PASSWORD`. Your normal Google ac
 
 ## Schedule
 
-GitHub Actions starts the monitor every 5 minutes. The Python script only checks inventory between 7:00 PM and 7:00 AM America/Denver time.
+GitHub Actions starts the monitor every 5 minutes at minutes 2, 7, 12, and so on. The offset avoids the busiest clock boundaries. The Python script only checks inventory between 7:00 PM and 7:00 AM America/Denver time.
