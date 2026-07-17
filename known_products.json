@@ -95,18 +95,18 @@
     "available": true,
     "image": ""
   },
-  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-baritone-electric-guitar-sunburst-color": {
-    "title": "New Firefly FFLX Electric Guitar (Snow Horse Color)",
-    "collection": "FFVX",
-    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-baritone-electric-guitar-sunburst-color",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
   "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-electric-guitar-white-color": {
     "title": "New Firefly FFLX Electric Guitar (White Color)",
     "collection": "FFVX",
     "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-electric-guitar-white-color",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-baritone-electric-guitar-sunburst-color": {
+    "title": "New Firefly FFLX Electric Guitar (Snow Horse Color)",
+    "collection": "FFVX",
+    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-baritone-electric-guitar-sunburst-color",
     "price": "Unknown",
     "available": true,
     "image": ""
