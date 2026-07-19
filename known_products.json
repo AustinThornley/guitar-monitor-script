@@ -87,14 +87,6 @@
     "available": true,
     "image": ""
   },
-  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-vx-star-electric-guitar-yellow-color": {
-    "title": "Promotion!New Firefly VX Star Electric Guitar (Off White Color)",
-    "collection": "FFVX",
-    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-vx-star-electric-guitar-yellow-color",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
   "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-electric-guitar-white-color": {
     "title": "New Firefly FFLX Electric Guitar (White Color)",
     "collection": "FFVX",
@@ -107,6 +99,14 @@
     "title": "New Firefly FFLX Electric Guitar (Snow Horse Color)",
     "collection": "FFVX",
     "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-baritone-electric-guitar-sunburst-color",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-vx-star-electric-guitar-yellow-color": {
+    "title": "Promotion!New Firefly VX Star Electric Guitar (Off White Color)",
+    "collection": "FFVX",
+    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-vx-star-electric-guitar-yellow-color",
     "price": "Unknown",
     "available": true,
     "image": ""
