@@ -1,4 +1,28 @@
 {
+  "https://guitarsgarden.com/collections/fftl/products/firefly-fftl-classic-model-electric-guitars-gray-bb-color": {
+    "title": "Firefly FFTL Classic Model ELECTRIC GUITARS ( Black Paisley Color )",
+    "collection": "FFTL",
+    "url": "https://guitarsgarden.com/collections/fftl/products/firefly-fftl-classic-model-electric-guitars-gray-bb-color",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/fftl/products/baritone-fftl-classic-model-electric-guitars-metallic-gray-color": {
+    "title": "Firefly Baritone FFTL Classic Model ELECTRIC GUITARS ( Metallic Gray Color )",
+    "collection": "FFTL",
+    "url": "https://guitarsgarden.com/collections/fftl/products/baritone-fftl-classic-model-electric-guitars-metallic-gray-color",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/fftl/products/fftl-classic-model-electric-guitars-red-color": {
+    "title": "Firefly FFTL Classic Model ELECTRIC GUITARS (Red Paisley Color )",
+    "collection": "FFTL",
+    "url": "https://guitarsgarden.com/collections/fftl/products/fftl-classic-model-electric-guitars-red-color",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
   "https://guitarsgarden.com/collections/fftl/products/fftl-classic-model-electric-guitars-purple-burst-color": {
     "title": "NEW FFTL Mad Cat ELECTRIC GUITARS ( Transparent Purple Color )",
     "collection": "FFTL",
@@ -11,6 +35,14 @@
     "title": "NEW FFTL Mad Cat ELECTRIC GUITARS ( Transparent Yellow Color )BCTY",
     "collection": "FFTL",
     "url": "https://guitarsgarden.com/collections/fftl/products/fftl-electric-guitars-dark-passion-color-bcty",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/fftl/products/fftl-classic-model-electric-guitars-blue-color": {
+    "title": "New Firefly FFTL Classic Model ELECTRIC GUITARS ( Blue Paisley Color )",
+    "collection": "FFTL",
+    "url": "https://guitarsgarden.com/collections/fftl/products/fftl-classic-model-electric-guitars-blue-color",
     "price": "Unknown",
     "available": true,
     "image": ""
