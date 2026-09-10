@@ -5,6 +5,7 @@ COLLECTIONS = {
     "FFST": "https://guitarsgarden.com/collections/ffst",
     "FFSP": "https://guitarsgarden.com/collections/ffsp",
     "FFVX": "https://guitarsgarden.com/collections/ffvx",
+    "SG": "https://guitarsgarden.com/collections/sg",
 }
 
 STATE_FILE = "known_products.json"
