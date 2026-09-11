@@ -118,5 +118,21 @@
     "price": "Unknown",
     "available": true,
     "image": ""
+  },
+  "https://guitarsgarden.com/collections/sg/products/ffst-classic-model-electric-guitars-nature-white-colormwta": {
+    "title": "Firefly FFST CLASSIC MODEL ELECTRIC GUITARS (Nature White Color)MWTA",
+    "collection": "SG",
+    "url": "https://guitarsgarden.com/collections/sg/products/ffst-classic-model-electric-guitars-nature-white-colormwta",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/sg/products/ffst-classic-model-electric-guitars-chameleon-blue-color-bpn": {
+    "title": "Firefly FFST CLASSIC MODEL ELECTRIC GUITARS( Chameleon Blue Color )BPN",
+    "collection": "SG",
+    "url": "https://guitarsgarden.com/collections/sg/products/ffst-classic-model-electric-guitars-chameleon-blue-color-bpn",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
   }
 }
