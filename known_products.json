@@ -39,14 +39,6 @@
     "available": true,
     "image": ""
   },
-  "https://guitarsgarden.com/collections/fftl/products/firefly-new-fftl-electric-guitars-sunburst-color": {
-    "title": "New Firefly FFTL Electric Guitar ( Sunburst Color )",
-    "collection": "FFTL",
-    "url": "https://guitarsgarden.com/collections/fftl/products/firefly-new-fftl-electric-guitars-sunburst-color",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
   "https://guitarsgarden.com/collections/fftl/products/fftl-classic-model-electric-guitars-purple-burst-color": {
     "title": "NEW FFTL Mad Cat ELECTRIC GUITARS ( Transparent Purple Color )",
     "collection": "FFTL",
@@ -135,14 +127,6 @@
     "available": true,
     "image": ""
   },
-  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-matte-black-color": {
-    "title": "New Firefly FFVX Electric Guitar (Matte Black Color)",
-    "collection": "FFVX",
-    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-matte-black-color",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
   "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-baritone-electric-guitar-sunburst-color": {
     "title": "New Firefly FFLX Electric Guitar (Snow Horse Color)",
     "collection": "FFVX",
@@ -159,18 +143,18 @@
     "available": true,
     "image": ""
   },
-  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-vx-star-electric-guitar-yellow-color-1": {
-    "title": "Promotion! New Firefly VX Star Electric Guitar (Yellow Color)",
-    "collection": "FFVX",
-    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-vx-star-electric-guitar-yellow-color-1",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
   "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-black-color-9": {
     "title": "New Firefly FFVX Electric Guitar (Black Color)",
     "collection": "FFVX",
     "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-black-color-9",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-vx-star-electric-guitar-yellow-color-1": {
+    "title": "Promotion! New Firefly VX Star Electric Guitar (Yellow Color)",
+    "collection": "FFVX",
+    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-vx-star-electric-guitar-yellow-color-1",
     "price": "Unknown",
     "available": true,
     "image": ""
