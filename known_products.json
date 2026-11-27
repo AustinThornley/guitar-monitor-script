@@ -127,14 +127,6 @@
     "available": true,
     "image": ""
   },
-  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-red-color-1": {
-    "title": "New Firefly FFVX Electric Guitar (Red StripesColor)",
-    "collection": "FFVX",
-    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-red-color-1",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
   "https://guitarsgarden.com/collections/ffvx/products/new-firefly-fflx-baritone-electric-guitar-sunburst-color": {
     "title": "New Firefly FFLX Electric Guitar (Snow Horse Color)",
     "collection": "FFVX",
@@ -175,22 +167,6 @@
     "available": true,
     "image": ""
   },
-  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-spotted-black-color": {
-    "title": "New Firefly FFVX Electric Guitar (Spotted Black Color)",
-    "collection": "FFVX",
-    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-spotted-black-color",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
-  "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-tiger-color": {
-    "title": "New Firefly FFVX Electric Guitar (Tiger Color)",
-    "collection": "FFVX",
-    "url": "https://guitarsgarden.com/collections/ffvx/products/new-firefly-ffvx-electric-guitar-tiger-color",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
   "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-ash-wood-guitar-body-electric-guitars-sunburst-color": {
     "title": "Firefly FFST CLASSIC MODEL ASH WOOD GUITAR BODY ELECTRIC GUITARS (SUNBURST Color)",
     "collection": "SG",
@@ -203,22 +179,6 @@
     "title": "Firefly FFST CLASSIC MODEL ELECTRIC GUITARS (RoseWood Color)",
     "collection": "SG",
     "url": "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-rose-wood-color",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
-  "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-white-color-1": {
-    "title": "Firefly FFST CLASSIC MODEL ELECTRIC GUITARS ( Off White Color)",
-    "collection": "SG",
-    "url": "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-white-color-1",
-    "price": "Unknown",
-    "available": true,
-    "image": ""
-  },
-  "https://guitarsgarden.com/collections/sg/products/new-firefly-ffst-classic-model-electric-guitars-pink-color": {
-    "title": "New Firefly FFST CLASSIC MODEL ELECTRIC GUITARS (Pink Color)",
-    "collection": "SG",
-    "url": "https://guitarsgarden.com/collections/sg/products/new-firefly-ffst-classic-model-electric-guitars-pink-color",
     "price": "Unknown",
     "available": true,
     "image": ""
@@ -239,6 +199,22 @@
     "available": true,
     "image": ""
   },
+  "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-color-1": {
+    "title": "Firefly FFST CLASSIC MODEL ELECTRIC GUITARS (Rainbow Color)",
+    "collection": "SG",
+    "url": "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-color-1",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-yellow-color-2": {
+    "title": "Firefly FFST CLASSIC MODEL ELECTRIC GUITARS WITH SCALLOPED FRETBOARD (Yellow Color)",
+    "collection": "SG",
+    "url": "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-yellow-color-2",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
   "https://guitarsgarden.com/collections/sg/products/new-firefly-ffst-classic-model-electric-guitars-black-color": {
     "title": "New Firefly FFST CLASSIC MODEL ELECTRIC GUITARS (Black Color)",
     "collection": "SG",
@@ -251,6 +227,22 @@
     "title": "Firefly FFST CLASSIC MODEL ELECTRIC GUITARS WITH WENGE WOOD NECK (Yelllow Color)",
     "collection": "SG",
     "url": "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-yelllow-color",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-black-color-3": {
+    "title": "Firefly FFST CLASSIC MODEL ELECTRIC GUITARS (Black Color)",
+    "collection": "SG",
+    "url": "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-black-color-3",
+    "price": "Unknown",
+    "available": true,
+    "image": ""
+  },
+  "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-vintage-white-color": {
+    "title": "Firefly FFST CLASSIC MODEL ELECTRIC GUITARS ( Vintage White Color)",
+    "collection": "SG",
+    "url": "https://guitarsgarden.com/collections/sg/products/firefly-ffst-classic-model-electric-guitars-vintage-white-color",
     "price": "Unknown",
     "available": true,
     "image": ""
